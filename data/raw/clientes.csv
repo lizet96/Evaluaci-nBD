@@ -1,0 +1,6 @@
+id_cliente,nombre,apellido,edad,genero,telefono,email,categoria_cliente,fecha_registro,pais,codigo_postal
+1,Juan,Pérez,35,M,600123456,juan.perez@email.com,recurrente,2020-01-10,España,28001
+2,María,García,28,F,600234567,maria.garcia@email.com,nuevo,2021-03-15,España,08001
+3,Carlos,López,42,M,600345678,carlos.lopez@email.com,vip,2019-06-20,España,46001
+4,Ana,Martín,31,F,600456789,ana.martin@email.com,recurrente,2020-08-12,España,41001
+5,Luis,Rodríguez,39,M,600567890,luis.rodriguez@email.com,nuevo,2021-01-25,España,28002

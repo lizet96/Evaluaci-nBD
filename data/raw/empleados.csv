@@ -1,0 +1,6 @@
+id_empleado,id_sucursal,nombre,apellido,puesto,fecha_contratacion,salario_base
+1,1,Pedro,Sánchez,gerente,2019-01-15,3500
+2,1,Laura,Fernández,vendedor,2020-03-20,2200
+3,2,Miguel,Torres,vendedor,2020-06-10,2200
+4,3,Carmen,Ruiz,gerente,2019-08-05,3500
+5,4,David,Moreno,vendedor,2021-02-15,2200

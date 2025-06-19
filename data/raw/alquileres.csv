@@ -1,0 +1,9 @@
+id_alquiler,id_cliente,id_vehiculo,id_sucursal,id_empleado,fecha_inicio,fecha_fin,monto_total,monto_seguro,monto_combustible,estado_alquiler
+1,1,1,1,2,2021-01-15,2021-01-20,250.00,50.00,30.00,completado
+2,2,3,3,4,2021-02-10,2021-02-12,180.00,40.00,25.00,completado
+3,3,2,2,3,2021-03-05,2021-03-10,300.00,60.00,35.00,completado
+4,4,4,4,5,2021-04-20,2021-04-25,450.00,80.00,50.00,completado
+5,5,1,1,2,2021-05-15,2021-05-18,200.00,45.00,28.00,completado
+6,1,5,1,2,2021-06-10,2021-06-15,150.00,30.00,20.00,completado
+7,2,2,3,4,2021-07-08,2021-07-12,280.00,55.00,32.00,completado
+8,3,3,2,3,2021-08-22,2021-08-24,160.00,35.00,22.00,completado

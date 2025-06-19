@@ -1,0 +1,9 @@
+id_alquiler,id_cliente,id_vehiculo,id_sucursal,id_empleado,fecha_inicio,fecha_fin,monto_total,monto_seguro,monto_combustible,estado_alquiler,duracion_dias,año,mes,trimestre,nombre_sucursal,direccion,ciudad,pais,codigo_postal,tipo_vehiculo,marca,modelo,categoria_cliente,edad,genero,nombre,apellido,puesto
+1,1,1,1,2,2021-01-15,2021-01-20,250.0,50.0,30.0,completado,5,2021,1,1,Rent4you Centro,Av. Principal 123,Madrid,España,28001,coche,Toyota,Corolla,recurrente,35,M,Laura,Fernández,vendedor
+2,2,3,3,4,2021-02-10,2021-02-12,180.0,40.0,25.0,completado,2,2021,2,1,Rent4you Sur,Av. Sur 789,Barcelona,España,8001,moto,Yamaha,MT-07,nuevo,28,F,Carmen,Ruiz,gerente
+3,3,2,2,3,2021-03-05,2021-03-10,300.0,60.0,35.0,completado,5,2021,3,1,Rent4you Norte,Calle Norte 456,Madrid,España,28002,coche,Honda,Civic,vip,42,M,Miguel,Torres,vendedor
+4,4,4,4,5,2021-04-20,2021-04-25,450.0,80.0,50.0,completado,5,2021,4,2,Rent4you Este,Calle Este 321,Valencia,España,46001,camioneta,Ford,Transit,recurrente,31,F,David,Moreno,vendedor
+5,5,1,1,2,2021-05-15,2021-05-18,200.0,45.0,28.0,completado,3,2021,5,2,Rent4you Centro,Av. Principal 123,Madrid,España,28001,coche,Toyota,Corolla,nuevo,39,M,Laura,Fernández,vendedor
+6,1,5,1,2,2021-06-10,2021-06-15,150.0,30.0,20.0,completado,5,2021,6,2,Rent4you Centro,Av. Principal 123,Madrid,España,28001,remolque,Trailer,Basic,recurrente,35,M,Laura,Fernández,vendedor
+7,2,2,3,4,2021-07-08,2021-07-12,280.0,55.0,32.0,completado,4,2021,7,3,Rent4you Sur,Av. Sur 789,Barcelona,España,8001,coche,Honda,Civic,nuevo,28,F,Carmen,Ruiz,gerente
+8,3,3,2,3,2021-08-22,2021-08-24,160.0,35.0,22.0,completado,2,2021,8,3,Rent4you Norte,Calle Norte 456,Madrid,España,28002,moto,Yamaha,MT-07,vip,42,M,Miguel,Torres,vendedor

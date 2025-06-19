@@ -1,0 +1,6 @@
+id_gasto,id_sucursal,id_tiempo,id_tipo_gasto,id_proveedor,monto_gasto,descripcion_gasto,periodo_gasto
+1,1,202101,1,1,1200.00,Mantenimiento vehículos,mensual
+2,2,202101,2,2,800.00,Alquiler local,mensual
+3,3,202101,1,1,950.00,Mantenimiento vehículos,mensual
+4,1,202102,3,3,300.00,Material oficina,mensual
+5,4,202102,2,4,750.00,Alquiler local,mensual

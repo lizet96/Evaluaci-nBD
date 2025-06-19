@@ -1,0 +1,6 @@
+id_sucursal,nombre_sucursal,direccion,ciudad,pais,codigo_postal
+1,Rent4you Centro,Av. Principal 123,Madrid,España,28001
+2,Rent4you Norte,Calle Norte 456,Madrid,España,28002
+3,Rent4you Sur,Av. Sur 789,Barcelona,España,08001
+4,Rent4you Este,Calle Este 321,Valencia,España,46001
+5,Rent4you Oeste,Av. Oeste 654,Sevilla,España,41001

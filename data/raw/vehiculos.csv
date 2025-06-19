@@ -1,0 +1,6 @@
+id_vehiculo,matricula,marca,modelo,año_fabricacion,tipo_vehiculo,estado_vehiculo,fecha_adquisicion,costo_adquisicion
+1,ABC123,Toyota,Corolla,2020,coche,disponible,2020-01-15,18000
+2,DEF456,Honda,Civic,2021,coche,disponible,2021-02-20,20000
+3,GHI789,Yamaha,MT-07,2019,moto,disponible,2019-03-10,8000
+4,JKL012,Ford,Transit,2020,camioneta,disponible,2020-04-05,25000
+5,MNO345,Trailer,Basic,2018,remolque,disponible,2018-05-12,5000
